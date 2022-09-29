@@ -16,6 +16,8 @@
 *.rmvb
 *.ts
 
+*.ko
+*.bin
 *.badapple
 
 # image
