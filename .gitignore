@@ -16,16 +16,17 @@
 *.rmvb
 *.ts
 
-*.ko
-*.bin
-*.badapple
-
 # image
 *.png
 *.jpg
 *.jpeg
 *.webp
 *.bmp
+
+*.ko
+*.bin
+*.badapple
+*.gif
 
 archive/
 */temp/
